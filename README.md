@@ -50,4 +50,4 @@ Cleaner, healthier, and climate-resilient metro cities.
 Group project developed as part of public policy training. My contribution focused on developing and analysing the Theory of Change framework.
 ## Project Document
 
-[View the complete Theory of Change project](./Theory_of_Change.pdf)
+
